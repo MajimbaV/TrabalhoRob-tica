@@ -1,3 +1,5 @@
+//Exemplo 1
+
 #include<Wire.h>
  
 //Endereco I2C do MPU6050
@@ -62,7 +64,7 @@ void loop()
 
 
 
-#Exemplo 2
+//Exemplo 2
 
 #include<Wire.h>
 const int MPU=0x68; 
